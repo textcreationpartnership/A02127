@@ -36,9 +36,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The honorable historie of frier Bacon, and frier Bongay As it was plaid by her Maiesties seruants. M
+
 #####Body#####
-The honorable historie of frier Bacon, and frier Bongay As it was plaid by her Maiesties seruants. M
+
+1. THE HONOVRABLE Hiſtorie of Frier Bacon.
+
 **Types of content**
 
   * There are 1491 **verse** lines!
